@@ -14,6 +14,7 @@
 ``` bash
 slurp |grim -g - assets/"image_test"/grim.jpg
 ```
+
 - 截图 ![](assets/"image_test"/grim.jpg)
 
 - [ 点我前往git配置记录 ](s使用git命令.md '一小步 也是一大步。整个体验还是不错的') 
