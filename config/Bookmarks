@@ -1,0 +1,124 @@
+{
+   "checksum": "f57708e38a350e07b79c30ff9de40f1c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13306234571936878",
+            "guid": "059162e9-0ebc-4d47-9e11-9711bcb71b1f",
+            "id": "8",
+            "name": "PCI passthrough via OVMF (简体中文) - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E8%AE%BE%E7%BD%AEIOMMU"
+         }, {
+            "date_added": "13306238626994294",
+            "guid": "57b1faf3-bbbc-416f-b996-e51e8c03e057",
+            "id": "10",
+            "name": "Optimus MUXed 笔记本上的 NVIDIA 虚拟机显卡直通 | Lan Tian @ Blog",
+            "type": "url",
+            "url": "https://lantian.pub/article/modify-computer/laptop-muxed-nvidia-passthrough.lantian/#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97"
+         }, {
+            "date_added": "13306256790128146",
+            "guid": "416cb026-227f-41f3-8583-7feb90aa8013",
+            "id": "12",
+            "name": "LEDs-single-gpu-passthrough/Setting up Passthrough cn.md at main · ledisthebest/LEDs-single-gpu-passthrough · GitHub",
+            "type": "url",
+            "url": "https://github.com/ledisthebest/LEDs-single-gpu-passthrough/blob/main/VFIO/Setting%20up%20Passthrough%20cn.md"
+         }, {
+            "date_added": "13306256794365844",
+            "guid": "c8a02567-fd19-4e5f-bcf4-44e5e733953b",
+            "id": "13",
+            "name": "PCI passthrough via OVMF (简体中文) - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E5%B0%86IVSHMEM%E4%B8%BB%E6%9C%BA%E5%AE%89%E8%A3%85%E5%88%B0Windows%E5%AE%A2%E6%88%B7%E6%9C%BA"
+         }, {
+            "date_added": "13306460890692455",
+            "guid": "a5d2bf8f-33fc-4219-ba6d-5e3f5924a437",
+            "id": "15",
+            "name": "Krock/dawn: ~ User Patch ~ - NotABug.org: Free code hosting",
+            "type": "url",
+            "url": "https://notabug.org/Krock/dawn"
+         }, {
+            "date_added": "13306525751975534",
+            "guid": "b49a67b1-46d1-4d25-b40e-ca364d5417d3",
+            "id": "17",
+            "name": "Configuration · WayfireWM/wayfire Wiki · GitHub",
+            "type": "url",
+            "url": "https://github.com/WayfireWM/wayfire/wiki/Configuration#overview"
+         }, {
+            "date_added": "13306587313147462",
+            "guid": "6ef90745-af38-4f10-9cf5-552f4da2002a",
+            "id": "19",
+            "name": "The Top 894 Wayland Open Source Projects",
+            "type": "url",
+            "url": "https://awesomeopensource.com/projects/wayland"
+         }, {
+            "date_added": "13306710094189992",
+            "guid": "bc4cf2e9-1ee3-477b-841f-82d206d570b1",
+            "id": "21",
+            "name": "Linux使用命令行调用ffmpeg尝试在b站无缝推流 - 哔哩哔哩",
+            "type": "url",
+            "url": "https://www.bilibili.com/read/cv9687198"
+         }, {
+            "date_added": "13306772769150358",
+            "guid": "1aefdaea-31d0-4823-a195-a843beb584be",
+            "id": "25",
+            "name": "开播设置 - 个人中心 - bilibili link",
+            "type": "url",
+            "url": "https://link.bilibili.com/p/center/index?spm_id_from=333.1007.0.0#/my-room/start-live"
+         }, {
+            "date_added": "13306959597008145",
+            "guid": "90c12547-94a5-41c0-be57-dbd3639d8312",
+            "id": "27",
+            "name": "彩云小译 - 网页翻译插件_1.3.9_chrome扩展插件下载_极简插件",
+            "type": "url",
+            "url": "https://chrome.zzzmh.cn/info/jmpepeebcbihafjjadogphmbgiffiajh"
+         }, {
+            "date_added": "13307028622541310",
+            "guid": "c9641cf3-20dc-4dc5-919e-51cac5ed6b92",
+            "id": "29",
+            "name": "在线markdown编辑器_微信公众号markdown排版工具",
+            "type": "url",
+            "url": "https://markdown.com.cn/editor/"
+         }, {
+            "date_added": "13307068045311252",
+            "guid": "796a71cd-b212-4667-ab85-b97d990f53de",
+            "id": "30",
+            "name": "github.com",
+            "type": "url",
+            "url": "https://github.com/marktext/marktext/blob/master/docs/README.md"
+         }, {
+            "date_added": "13307121013450640",
+            "guid": "5ad16995-fd4e-41aa-86ef-dfaaddc9d788",
+            "id": "31",
+            "name": "版本回退 - 廖雪峰的官方网站",
+            "type": "url",
+            "url": "https://www.liaoxuefeng.com/wiki/896043488029600/897013573512192"
+         } ],
+         "date_added": "13306198035866184",
+         "date_modified": "13307121013450640",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13306198035866185",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13306198035866188",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
