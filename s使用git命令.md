@@ -90,14 +90,30 @@
 4. ## 日常使用实例  (将本文git配置过程上传之服务器)
    
    - 现在仓库什么都没有，我们先保存markdown文件，以.md结尾 
-   ![](assets/"image_test"/2022-09-08-12-25-06-image.png)
+     ![](assets/"image_test"/2022-09-08-12-25-06-image.png)
+   
    - 我们添加新的文件 
      
      ```bash
-     git add s使用git命令.md
+     git add s使用git命令.md  
      ```
-   - 为这一次知识库的版本变化做一个评注
+   
+   - 为这一次知识库的版本变化做一个评注,并提交所以的修改
      
      ```bash
      git commit -m "我添加了一个新的文件，修改"
      ```
+   
+   - 让我们把数据同步到服务器
+     
+     ```bash
+     git push origin master
+     ```
+   
+   - 好了，现在可以访问你的主页了。格式**gitee.com/**你的用户名/你的仓库
+     
+     比如我的主页： <https://gitee.com/TheTouYu/test>
+     
+     
+
+          
