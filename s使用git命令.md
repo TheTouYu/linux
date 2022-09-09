@@ -128,9 +128,10 @@
      4. git add *
      5. git commit -m '做了什么？解决了冲突'
      5. git push
-   - #如何用一个其他的分支(主分支不存在）更新远程仓库的分支
+   - #如何用一个其他的分支(主分支不存在）更新远程仓库的分支 !!!按照merge 解决
      1. git switch -c new_branch
-     2. git config.streame_to_ orgin/master #有点不记得了，可以pull查看它的提示
+     2. git branch streame_to orgin/master new_branch #有点不记得了，可以pull查看它的提示
+     2. git config.rebase true
      3. git pull #做些修改
      4. git add *
      5. git commit -m ' xxx '
