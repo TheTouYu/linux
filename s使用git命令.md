@@ -114,6 +114,29 @@
      
      比如我的主页： <https://gitee.com/TheTouYu/test>
      
+5. ## 一些git操作
+   - git add remote origin git@gitee.com/TheTouYu/linux #添加远程仓库，名字叫做origin
+   - git reflog #查看最近的commit
+   - git reflog --grapha --pretty=oneline --abre-commit #用简短的图表查看各个分支的走向
+   - git reset --hard rstbra #默认的补全是切换分支，还可以用HEAD^^ (^^表示回到前两次commit)
+     , HEAD{3} 回到三次之前的commit,   garstrst(回到任意一次commit,通过reflog log查看)
+   - git switch -c #创建并切换到新的分支  git switch main #切换到main分支
+   - #如何回滚远程仓库？
+     1. git pull 
+     2. git merge origin/master
+     3. 做些修改，解决冲突（可以直接删除)
+     4. git add *
+     5. git commit -m '做了什么？解决了冲突'
+     5. git push
+   - #如何用一个其他的分支(主分支不存在）更新远程仓库的分支
+     1. git switch -c new_branch
+     2. git config.streame_to_ orgin/master #有点不记得了，可以pull查看它的提示
+     3. git pull #做些修改
+     4. git add *
+     5. git commit -m ' xxx '
+     6. git push origin/dev #一定要选择分支
+
+     
      
 
           
