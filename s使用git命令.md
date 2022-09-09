@@ -117,7 +117,7 @@
 5. ## 一些git操作
    - git add remote origin git@gitee.com/TheTouYu/linux #添加远程仓库，名字叫做origin
    - git reflog #查看最近的commit
-   - git reflog --grapha --pretty=oneline --abre-commit #用简短的图表查看各个分支的走向
+   - git log --grapha --pretty=oneline --abbre-commit #用简短的图表查看各个分支的走向
    - git reset --hard rstbra #默认的补全是切换分支，还可以用HEAD^^ (^^表示回到前两次commit)
      , HEAD{3} 回到三次之前的commit,   garstrst(回到任意一次commit,通过reflog log查看)
    - git switch -c #创建并切换到新的分支  git switch main #切换到main分支
